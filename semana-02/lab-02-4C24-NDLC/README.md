@@ -16,3 +16,4 @@ Para empezar a trabajar con este proyecto en tu entorno local:
 
 3. Revisa el estado del repositorio y la configuración del .gitignore con:
    git status
+
